@@ -2,7 +2,6 @@ package red.man10.man10vaultapiplus;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.omg.PortableInterceptor.TRANSPORT_RETRY;
 import red.man10.man10vaultapiplus.enums.MoneyPoolTerm;
 import red.man10.man10vaultapiplus.enums.MoneyPoolType;
 import red.man10.man10vaultapiplus.enums.TransactionCategory;
